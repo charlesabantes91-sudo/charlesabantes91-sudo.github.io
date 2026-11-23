@@ -1,0 +1,5 @@
+Order ID,Customer,Order Date,Status,Last Updated,Notes
+ORD-1001,Sample Customer A,2026-11-16,Shipped,2026-11-18,Tracking details sent
+ORD-1002,Sample Customer B,2026-11-17,Processing,2026-11-19,Awaiting dispatch
+ORD-1003,Sample Customer C,2026-11-17,Delivered,2026-11-20,Delivery confirmed
+ORD-1004,Sample Customer D,2026-11-18,Processing,2026-11-20,Preparing shipment

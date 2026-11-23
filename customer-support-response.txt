@@ -1,0 +1,15 @@
+PRACTICE SAMPLE — FICTIONAL CUSTOMER SUPPORT RESPONSE
+
+Customer message:
+"Hi, I’d like to check the status of my order."
+
+Suggested response:
+"Hello! I’d be happy to help. Could you please share your order number so I can check the latest status for you? Once I have that, I’ll review the details and provide an update. Thank you!"
+
+Demonstrated approach:
+- Acknowledge the customer's request.
+- Use a polite and helpful tone.
+- Ask for the information needed to investigate.
+- Explain the next step clearly.
+
+This is a self-created practice sample, not a real customer interaction.
